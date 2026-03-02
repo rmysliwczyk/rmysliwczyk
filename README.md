@@ -1,4 +1,4 @@
-## Hello. I'm Rafał 👋
+## Hello. I'm Rafał 👋 Talk to my personal [AI Assistant](http://assistant.mysliwczykrafal.pl)
 🛠️ Fullstack Developer (Python + React + DevOps)  
 📚 Computer Science student at Warsaw University of Life Sciences  
 🎓 Master's degree in English Studies from SWPS University  
