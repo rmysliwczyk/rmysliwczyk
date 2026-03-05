@@ -5,7 +5,7 @@
 💡 Eager to learn  
 💚 Passionate about technology  
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" width=16/> **[LinkedIn](www.linkedin.com/in/rafal-mysliwczyk-307b31120)**
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" width=16/> **[LinkedIn](https://www.linkedin.com/in/rafal-mysliwczyk)**
 
 ## 💻 Techstack
 These I use frequently...  
