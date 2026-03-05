@@ -17,6 +17,7 @@ These I use frequently...
 ## 💾 Projects
 - [Inventory Management System - Frontend](https://github.com/rmysliwczyk/inventory-management-system-frontend)
 - [Inventory Management System - Backend](https://github.com/rmysliwczyk/inventory-management-system-backend)
+- [AI Assistant](https://github.com/rmysliwczyk/ai-assistant)
 - [Calorie Tracker - Frontend](https://github.com/rmysliwczyk/calorie-tracker-frontend)
 - [Calorie Tracker - Backend](https://github.com/rmysliwczyk/calorie-tracker-backend)
 - [Markdown-to-HTML](https://github.com/rmysliwczyk/markdowntohtml)
