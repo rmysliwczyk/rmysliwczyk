@@ -15,6 +15,7 @@ These I use frequently...
 ...but that's not all. Check out my projects and let's talk 😎
 
 ## 💾 Projects
+- [Insurance Risk Wizard](https://github.com/rmysliwczyk/insurance-risk-wizard-frontend)
 - [Inventory Management System - Frontend](https://github.com/rmysliwczyk/inventory-management-system-frontend)
 - [Inventory Management System - Backend](https://github.com/rmysliwczyk/inventory-management-system-backend)
 - [AI Assistant](https://github.com/rmysliwczyk/ai-assistant)
