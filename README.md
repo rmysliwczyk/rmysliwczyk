@@ -25,6 +25,12 @@ These I use frequently...
 - [Blocks](https://github.com/rmysliwczyk/blocks)
 - [Pong](https://github.com/rmysliwczyk/pong)
 - [Snake](https://github.com/rmysliwczyk/snake)
+
+## 👨🏻‍💻 LeetCode
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?_=20191202080835" width=16/>**[My profile](https://leetcode.com/u/mysliwczykrafal/)**
+- Badge: 50 Days Badge 2025
+- 151 Problems solved
+
 <!--
 **rmysliwczyk/rmysliwczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
