@@ -1,8 +1,7 @@
 ## Hello. I'm Rafał 👋 Talk to my personal [AI Assistant](http://assistant.mysliwczykrafal.pl)
-🛠️ Fullstack Developer (Python + React + DevOps)  
+🛠️ Skillset: Fullstack (Python + React + DevOps) and Automation (Python + UiPath)  
 📚 Computer Science student at Warsaw University of Life Sciences  
 🎓 Master's degree in English Studies from SWPS University  
-💡 Eager to learn  
 💚 Passionate about technology  
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" width=16/> **[LinkedIn](https://www.linkedin.com/in/rafal-mysliwczyk)**
